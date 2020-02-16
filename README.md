@@ -1,5 +1,6 @@
 # Minute
 
 Simple one minute countdown
--reset by tapping
--plays beeps at the end of the countdown
+
+  - Reset by tapping
+  - Plays beeps at the end of the countdown
