@@ -1,8 +1,8 @@
 var app = new Vue({
   el: "#app",
   data: {
-    initialTime: 60,
-    time: 60,
+    initialTime: 30,
+    time: 30,
     interval: null,
     sound: new Audio('beeps.mp3'),
     animation: "",
